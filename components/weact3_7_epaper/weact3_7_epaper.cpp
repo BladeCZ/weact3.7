@@ -1,4 +1,4 @@
-#include "component.h"
+#include "weact3_7_epaper.h"
 #include "esphome/core/log.h"
 
 namespace esphome {
